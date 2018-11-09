@@ -80,8 +80,8 @@
 
 <p> ENVIRONMENT</p>
 <p>The environment refers to the preferences and settings of the current user.</p>
-<p>The nano editor is a command line text editor used to configure the environment.</p>
 <ul>
+    <li><b>The nano editor</b> is a command line text editor used to configure the environment.</li>
     <li> <b>~/.bash_profile</b> is where environment settings are stored. You can edit this file with nano.
         environment variables are variables that can be used across commands and programs and hold information about
         the environment.
