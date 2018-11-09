@@ -21,7 +21,7 @@
 
 <p>I need to summarize information in one place. Thanks for this task. It was excellent addition to the previous task. I understand the value of command line, but need some time to comprehend how to use it in work.</p>
 
-<p> Navigating the File System:</p>
+<p> NAVIGATING THE FILE SYSTEM</p>
 <p> From the command line, you can navigate through files and folders on your computer:</p>
 <ul>
     <li> <b>pwd</b> outputs the name of the current working directory.</li>
@@ -31,7 +31,7 @@
     <li> <b>touch</b> creates a new file inside the working directory.</li>
 </ul>
 
-<p> Viewing and Changing the File System:</p>
+<p> VIEWING AND CHANGING THE FILE SYSTEM</p>
 <p>Options modify the behavior of commands:</p>
 <ul>
     <li> <b>ls -a</b> lists all contents of a directory, including hidden files and directories</li>
@@ -48,7 +48,7 @@
 </ul>
 <p>Wildcards are useful for selecting groups of files and directories</p>
 
-<p>Redirecting Input and Output:</p>
+<p>REDIRECTING INPUT AND OUTPUT</p>
 <p>Redirection reroutes standard input, standard output, and standard error.</p>
 <p>The common redirection commands are:</p>
 <ul>
