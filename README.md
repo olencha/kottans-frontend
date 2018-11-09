@@ -84,8 +84,8 @@
     <li><b>The nano editor</b> is a command line text editor used to configure the environment.</li>
     <li> <b>~/.bash_profile</b> is where environment settings are stored. You can edit this file with nano.
         environment variables are variables that can be used across commands and programs and hold information about
-        the environment.
-        export VARIABLE="Value" sets and exports an environment variable.</li>
+        the environment.</li>
+    <li> <b>exportVARIABLE="Value"</b>  sets and exports an environment variable.</li>
     <li><b>USER</b> is the name of the current user.</li>
     <li><b>PS1</b> is the command prompt.</li>
     <li><b>HOME</b> is the home directory. It is usually not customized.</li>
