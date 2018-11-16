@@ -15,7 +15,7 @@
 
 <hr>
 
-## Linux CLI, and HTTP
+## Linux CLI
 ![task1 screenshot](/task_linux_cli/task_linux_cli_1.png)
 ![task1 second screenshot](/task_linux_cli/task_linux_cli_2.png)
 
@@ -95,3 +95,11 @@
         terminal one page at a time.</li>
 </ul>
 
+##HTTP
+Come back here to repeat information after practical apllication of HTTP response, methods and coockies.
+<p>
+<a href="https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177" rel="nofollow">HTTP: The Protocol Every Web Developer Must Know - Part 1</a>
+</p>
+<p>
+<a href="https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155" rel="nofollow">HTTP: The Protocol Every Web Developer Must Know - Part 2</a>
+</p>
