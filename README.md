@@ -95,8 +95,10 @@
         terminal one page at a time.</li>
 </ul>
 
-##HTTP
+## HTTP
+<p>
 Come back here to repeat information after practical apllication of HTTP response, methods and coockies.
+</p>
 <p>
 <a href="https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177" rel="nofollow">HTTP: The Protocol Every Web Developer Must Know - Part 1</a>
 </p>
