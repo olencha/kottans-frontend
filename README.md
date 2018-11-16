@@ -97,7 +97,10 @@
 
 ### HTTP
 <p>
-Come back here to repeat information after practical apllication of HTTP response, methods and coockies.
+    I already knew how DNS, domain, IP works together. Also about difference between http and https (how to get digital certificate). New to me was how to develope it all from scratch. I will try to apply the knowledge practically and return to this question.
+ </p>   
+<p>
+<b>For future:</b> Come back here to repeat information after practical apllication.
 </p>
 <p>
 <a href="https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177" rel="nofollow">HTTP: The Protocol Every Web Developer Must Know - Part 1</a>
