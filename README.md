@@ -15,7 +15,7 @@
 
 <hr>
 
-## Linux CLI
+## Linux CLI, and HTTP
 ![task1 screenshot](/task_linux_cli/task_linux_cli_1.png)
 ![task1 second screenshot](/task_linux_cli/task_linux_cli_2.png)
 
@@ -95,7 +95,7 @@
         terminal one page at a time.</li>
 </ul>
 
-## HTTP
+### HTTP
 <p>
 Come back here to repeat information after practical apllication of HTTP response, methods and coockies.
 </p>
