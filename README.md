@@ -19,7 +19,7 @@
 ![task1 screenshot](/task_linux_cli/task_linux_cli_1.png)
 ![task1 second screenshot](/task_linux_cli/task_linux_cli_2.png)
 
-<p>I need to summarize information in one place. Thanks for this task. It was excellent addition to the previous task. I understand the value of command line, but need some time to comprehend how to use it in work.</p>
+<p>I need to summarize information in one place. Thanks for this task. It was excellent addition to the previous task. I understand the value of command line,now I know how to use it.</p>
 
 <p> NAVIGATING THE FILE SYSTEM</p>
 <p> From the command line, you can navigate through files and folders on your computer:</p>
