@@ -108,3 +108,25 @@
 <p>
 <a href="https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155" rel="nofollow">HTTP: The Protocol Every Web Developer Must Know - Part 2</a>
 </p>
+
+## Git Collaboration
+
+![git version control](/task_git_collaboration/github-collaboration.png)
+![github collaboration](/task_git_collaboration/version-control-with-git.png)
+
+<p>
+Detailed and useful courses. Feel myself like professional Git and Github user :) I have definitely increased my knowledge,because of clear, understandable learn materials. Now, I better understand the difference between git fetch and git pull, how to work with remote repository, local-fork-original repositories and etc.
+</p>
+<p>
+I will:
+</p>
+<ul>
+    <li>use git log --oneline, --author=, --grep=, shortlog (so easy!)</li>
+    <li>create backup branches</li>
+    <li>pull/fetch before push when work with team</li>
+    <li>have to deal with git rebase -i</li>
+</ul>
+<p>
+Also I liked additional information about CONTRIBUTING.md, README.md, writting small, focused commits. It help think in way of developer that have expirience in that.
+</p>
+
