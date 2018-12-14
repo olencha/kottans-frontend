@@ -130,3 +130,8 @@ I will:
 Also I liked additional information about CONTRIBUTING.md, README.md, writting small, focused commits. It help think in way of developer that have expirience in that.
 </p>
 
+## Intro to HTML and CSS
+![git version control](/task_git_collaboration/github-collaboration.png)
+![github collaboration](/task_git_collaboration/version-control-with-git.png)
+
+
