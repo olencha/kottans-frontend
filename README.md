@@ -131,7 +131,9 @@ Also I liked additional information about CONTRIBUTING.md, README.md, writting s
 </p>
 
 ## Intro to HTML and CSS
-![git version control](/task_git_collaboration/github-collaboration.png)
-![github collaboration](/task_git_collaboration/version-control-with-git.png)
+![udacity html/css course](/task_html_css_intro/udacity_html_css_class.png)
+![htmlacademy classes](/task_html_css_intro/html_academy_tasks.png)
 
-
+<p>
+I repeated and systematized my knowledge in HTML and CSS. Of course, I will use what I have learned. It was important task for me, because reminded that I must know basic details firstly. 
+</p>
