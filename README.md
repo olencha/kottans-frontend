@@ -137,3 +137,17 @@ Also I liked additional information about CONTRIBUTING.md, README.md, writting s
 <p>
 I repeated and systematized my knowledge in HTML and CSS. Of course, I will use what I have learned. It was important task for me, because reminded that I must know basic details firstly. 
 </p>
+
+## Responsive Web Design
+![udacity responsive web design](/task_responsive_web_design/udacity_responsive_web_design.png)
+![flexbox froggy game](/task_responsive_web_design/flexbox_froggy.png)
+
+<p>
+I was learn how to create responsive pages. It was interesting about mobile-first (developing sites by starting small). Also I learned common responsive patterns - Column Drop, Mostly fluid, Layout Shifter, Off Canvas. Also, cool tip about make buttons at least 48x48px. 
+</p>
+<p>
+I liked flexbox froggy game. It helped me to repeat flexbox skills and explained the knowledge gaps. For example, I didn't know that when a column is selected as a direction, justify-content affects the vertical alignment, and align-items on the horizontal one.
+</p>
+<p>
+I will definitely use new knowledge.
+</p>
