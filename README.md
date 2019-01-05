@@ -160,8 +160,8 @@ I will definitely use new knowledge.
 In this task, I more thoroughly and in detail repeated the basic knowledge of javascript: data types, variables,conditionals, loop, functions, arrays, objects. When I learned them in the past, some information skipped but it is structured now. 
 </p>
 <p>
-The first few tasks of Algorithms was really dificult for me. I tried to solve it by myself, without hint. It looked like something new for me. However, I taked my time, keeped calm and started think :) Also new was some methods and variations of solution smaller parts. For example, <b>Regular Expressions<b> (spent a lot of time to understand) and so on.
+The first few tasks of Algorithms was really dificult for me. I tried to solve it by myself, without hint. It looked like something new for me. However, I taked my time, keeped calm and started think :) Also new was some methods and variations of solution smaller parts. For example, <b>Regular Expressions</b> (spent a lot of time to understand) and so on. After this part I started to understand the way of task solving. 
 </p>
 <p>
-After this part I started to understand the way of task solving. I will use this knowledge is future.
+I will use all this knowledge is future.
 </p>
