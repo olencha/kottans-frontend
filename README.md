@@ -167,6 +167,10 @@ I will use all this knowledge is future.
 </p>
 
 ## DOM
+Reviewed and approved by @<A-Ostrovnyy>
+[Demo](https://olencha.github.io/dom-practical-task)|[Code base](https://github.com/olencha/dom-practical-task)
+
+I liked the practical task. I learn more about methods of work with DOM objects and events, repeated style and layout. Thank mentor for helpful comments.
 
 ![udacity js and the dom](/task_js_dom/js-and-the-dom.png)
 ![learn freecodecamp intermediate algorithms scripting part 2](/task_js_dom/freecodecamp-asc-second-part.png)
