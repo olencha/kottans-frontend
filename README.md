@@ -165,3 +165,15 @@ The first few tasks of Algorithms was really dificult for me. I tried to solve i
 <p>
 I will use all this knowledge is future.
 </p>
+
+## DOM
+
+![udacity js and the dom](/task_js_dom/js-and-the-dom.png)
+![learn freecodecamp intermediate algorithms scripting part 2](/task_js_dom/freecodecamp-asc-second-part.png)
+<p>
+Thanks you for this tasks. I definitely improved my knowledge of DOM. It was very useful to know about performance, how browser reflow and repaint page. 
+I will use this in future.
+</p>
+<p>
+Speaking of algorithms tasks, I can only feel how much practice needs for this. Hope, in the future I will do them without Google.
+</p>
