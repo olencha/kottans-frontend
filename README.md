@@ -167,13 +167,16 @@ I will use all this knowledge is future.
 </p>
 
 ## DOM
-Reviewed and approved by @<A-Ostrovnyy>
 [Demo](https://olencha.github.io/dom-practical-task)|[Code base](https://github.com/olencha/dom-practical-task)
 
+Reviewed and approved by [@A-Ostrovnyy](https://github.com/A-Ostrovnyy)
+<p>
 I liked the practical task. I learn more about methods of work with DOM objects and events, repeated style and layout. Thank mentor for helpful comments.
+</p>
 
 ![udacity js and the dom](/task_js_dom/js-and-the-dom.png)
 ![learn freecodecamp intermediate algorithms scripting part 2](/task_js_dom/freecodecamp-asc-second-part.png)
+
 <p>
 Thanks you for this tasks. I definitely improved my knowledge of DOM. It was very useful to know about performance, how browser reflow and repaint page. 
 I will use this in future.
